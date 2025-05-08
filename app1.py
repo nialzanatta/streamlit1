@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # Configura OpenAI/OpenRouter
-openai.api_key = "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"
+openai.api_key = "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"
 openai.api_base = "https://openrouter.ai/api/v1"
 
 st.set_page_config(page_title="ECOAI", layout="centered")
